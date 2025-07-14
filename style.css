@@ -60,8 +60,6 @@ h1 {
     color: #000000;
 }
 
-
-
 .dog_conatiner img {
     width: 1051px;
     height: 762px;
@@ -73,7 +71,8 @@ h1 {
     width: 245px;
     height: 48px;
     margin-top: 34px;
-    margin-left: 58px;;
+    margin-left: 58px;
+    ;
 
 }
 
